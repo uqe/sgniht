@@ -7,7 +7,7 @@
   "typings": "dist/index.d.ts",
   "repository": "uqe/sgniht",
   "description": "Things API",
-  "license": "ISC",
+  "license": "MIT",
   "author": "Arthur N <arturkkos@gmail.com>",
   "bugs": {
     "url": "https://github.com/uqe/sgniht/issues"
