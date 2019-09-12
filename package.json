@@ -9,6 +9,9 @@
   "description": "Things API",
   "license": "MIT",
   "author": "Arthur N <arturkkos@gmail.com>",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@uqe"
+  },
   "bugs": {
     "url": "https://github.com/uqe/sgniht/issues"
   },
