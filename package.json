@@ -9,9 +9,6 @@
   "description": "Things API",
   "license": "MIT",
   "author": "Arthur N <arturkkos@gmail.com>",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@uqe"
-  },
   "bugs": {
     "url": "https://github.com/uqe/sgniht/issues"
   },
@@ -20,7 +17,8 @@
   ],
   "scripts": {
     "start": "tsdx watch --target node",
-    "build": "tsdx build --target node --format=umd,esm,cjs"
+    "build": "tsdx build --target node --format=umd,esm,cjs",
+    "githubpublish": "npm config set registry https://npm.pkg.github.com/@uqe && npm publish && npm config set registry https://registry.npmjs.com"
   },
   "peerDependencies": {},
   "husky": {
