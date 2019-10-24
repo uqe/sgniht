@@ -1,6 +1,9 @@
 # sgnigt
 
-![NPM](https://img.shields.io/npm/l/sgniht.svg)![npm](https://img.shields.io/npm/v/sgniht.svg)![GitHub](https://img.shields.io/github/license/uqe/sgniht.svg)
+> Library for creating To-Do's in Things 3.
+
+[![npm version](https://badge.fury.io/js/sgniht.svg)](https://badge.fury.io/js/sgniht)
+![GitHub](https://img.shields.io/github/license/uqe/sgniht.svg)
 
 ## Usage
 
