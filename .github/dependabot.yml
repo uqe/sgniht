@@ -1,9 +1,9 @@
 version: 2
 updates:
-- package-ecosystem: npm
+- package-ecosystem: yarn
   directory: "/"
   schedule:
     interval: monthly
-    time: '02:00'
-  open-pull-requests-limit: 99
+    time: '06:00'
+  open-pull-requests-limit: 999
   versioning-strategy: lockfile-only
